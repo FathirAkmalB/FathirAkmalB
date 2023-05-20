@@ -50,9 +50,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>
 
-
-
-
 </div>
 
 <br>
@@ -118,5 +115,8 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirbyss&layout=compact&langs_count=10&theme=dark" />
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=tirbyss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-
 </div>
+
+<br>
+<br>
+
