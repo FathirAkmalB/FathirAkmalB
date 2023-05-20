@@ -1,23 +1,15 @@
-<h1 align="center">Hi 👋, I'm Fathir Akmal Burhanuduin</h1>
+<h1 align="center" style="color:blue">Hi 👋, I'm Fathir Akmal Burhanudin</h1>
 <h3 align="center">A passionate programming explorer from Indonesia</h3>
+<br>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirbyss&label=Profile%20views&color=0e75b6&style=flat" alt="tirbyss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirbyss" alt="tirbyss" /></a> </p>
-
-- 🌱 I’m currently learning **Dicoding, Laravel, Flutter**
-
-- 👨‍💻 All of my projects are available at [not yet](not yet)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **Laravel Flutter**
-
-- 📫 How to reach me **starboyaja@gmail.com**
-
-- 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **I'm Sleepy**
+<h2 align="center" >Connect With Me👤</h2>
+<div align="center">
+<a align="center" href="https://instagram.com/@strbyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lumi_novry" height="30" width="40" /></a>
+<a align="center" href="https://linkedin.com/in/lumi novry m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lumi novry m" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/strbyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/strbyss" height="30" width="40" /></a>
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,7 +20,7 @@
 <a href="https://dev.to/tireks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tireks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fathir-burhanudin-7a5600277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fathir-burhanudin-7a5600277/" height="30" width="40" /></a>
 <a href="https://instagram.com/strbyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="strbyyy" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/strbyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/strbyss" height="30" width="40" /></a>
+
 <a href="https://medium.com/@reks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reks" height="30" width="40" /></a>
 <a href="/??" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="??" height="30" width="40" /></a>
 </p>
