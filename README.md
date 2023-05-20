@@ -1,7 +1,9 @@
 <div align="center">
-    <img src="https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=996&t=st=1684586882~exp=1684587482~hmac=b878bf91842e583728d548c33b65cd0ad0ae7821a68552b5e6ce3ba722ea49ca"
-        height="300" alt="">
+    <img src="https://i.pinimg.com/564x/70/87/aa/7087aaf16b44cf5a78d4644e94e7be7e.jpg"
+         width="600"
+       alt="">
 </div>
+<br>
 
 <!-- Introduce -->
 <h1 align="center" style="color:blue">Hi 👋, I'm Fathir Akmal Burhanudin</h1>
@@ -49,6 +51,9 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>
+
+
+
 
 </div>
 
@@ -115,8 +120,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirbyss&layout=compact&langs_count=10&theme=dark" />
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=tirbyss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+
 </div>
-
-<br>
-<br>
-
