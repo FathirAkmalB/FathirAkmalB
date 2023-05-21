@@ -6,7 +6,7 @@
 <br>
 
 <!-- Introduce -->
-<h1 align="center" style="color:blue">Hi 👋, I'm Fathir Akmal Burhanudin</h1>
+<h1 align="center" style="color:blue">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px">, I'm Fathir Akmal Burhanudin</h1>
 <h3 align="center">A passionate programming explorer from Indonesia</h3>
 
 <br>
